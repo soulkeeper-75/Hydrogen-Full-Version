@@ -243,4 +243,4 @@ This repository serves as the official landing page for Hydrogen. The software i
 **Get the most recent version of Hydrogen today!**
 
 ---
-**Last updated:** 2026-09-15 22:48:48 UTC
+**Last updated:** 2026-09-16 01:03:56 UTC
